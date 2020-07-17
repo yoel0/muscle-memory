@@ -11,17 +11,17 @@ console.log(sentence);
 let age = 42;
 console.log(age);
 
-const myotorcycles = ['Kawasaki', 'Yamaha', 'Suzuki'];
+const myotorcycles = ["Kawasaki", "Yamaha", "Suzuki"];
 console.log(motorcycles);
 
-clet doesThisWork = true;
+let doesThisWork = true;
 console.log(doesThisWork);
 
 const lakers = {
-  headquarters: 'Los Angeles',
+  headquarters: "Los Angeles",
   numberOfPlayers: 11,
-  players: ['LBJ', 'Anthony Davis', 'Danny Green'],
-  areChampions: true
-}
+  players: ["LBJ", "Anthony Davis", "Danny Green"],
+  areChampions: true,
+};
 
 console.log(lakers);
