@@ -11,7 +11,7 @@ console.log(sentence);
 let age = 42;
 console.log(age);
 
-const myotorcycles = ["Kawasaki", "Yamaha", "Suzuki"];
+const motorcycles = ["Kawasaki", "Yamaha", "Suzuki"];
 console.log(motorcycles);
 
 let doesThisWork = true;
